@@ -1,0 +1,8 @@
+server:
+  address: localhost
+  port: 8080
+
+fileservice:
+  name: FILE
+  port: 8081
+  address: localhost

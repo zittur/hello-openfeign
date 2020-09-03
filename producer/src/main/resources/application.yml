@@ -1,0 +1,6 @@
+server:
+  port: 8081
+  address: localhost
+spring:
+  application:
+    name: FILE
